@@ -1,6 +1,5 @@
 
-## Hi, I'm Carlos Antolinez <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjIyb3RvNWMwZWJ1dDFpZmN2ODFwbHBnZDR0aXB2ZW1zdzV2OXozMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6hKL8BI8rRNrMRFtAx/giphy.gif" width="40"/>
- 
+## Hi, I'm Carlos Antolinez <img src="https://github.com/The1Poi/The1Poi/blob/main/assets/hello-cat.gif?raw=true" width="40"/> 
 ## About Me
  
 🔭 I'm currently student
